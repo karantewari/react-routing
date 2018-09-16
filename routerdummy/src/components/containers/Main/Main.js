@@ -1,4 +1,4 @@
-import React from 'react';
+ import React from 'react';
 import { Route, NavLink } from 'react-router-dom';
 import Home from './Home/Home';
 import About from './About/About';
